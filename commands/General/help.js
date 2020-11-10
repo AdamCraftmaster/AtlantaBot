@@ -121,11 +121,11 @@ class Help extends Command {
 		}
         
 		embed.addField("\u200B", message.translate("misc:STATS_FOOTER", {
-			donateLink: "https://patreon.com/Androz2091",
-			dashboardLink: "https://dashboard.atlanta-bot.fr",
+			donateLink: "https://patreon.com/AdamCraftmaster",
+			dashboardLink: "http://example.com",
 			inviteLink: await this.client.generateInvite("ADMINISTRATOR"),
-			githubLink: "https://github.com/Androz2091",
-			supportLink: "https://discord.atlanta-bot.fr"
+			githubLink: "https://github.com/AdamCraftmaster",
+			supportLink: "https://discord.gg/nmjmH9Jjap"
 		}));
 		embed.setAuthor(message.translate("general/help:TITLE", {
 			name: this.client.user.username

@@ -5,12 +5,10 @@
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
 [![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
-[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
-[![](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot/badge)](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot)
+[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/AdamCraftmaster)
+[![](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot/badge)](https://www.codefactor.io/repository/github/AdamCraftmaster/AtlantaBot)
 
-> This bot is used by more than 130,000 Discord users and more than 800 servers.
-
-Atlanta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [Androz2091](https://github.com/Androz2091).  
+Atlanta is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) and [Mongoose](https://mongoosejs.com/docs/api.html) by [AdamCraftmaster](https://github.com/AdamCraftmaster).  
 Feel free to add a star ⭐ to the repository to promote the project!
 
 ## Features
@@ -40,17 +38,7 @@ Atlanta has a lot of features, with **7 main categories**:
 
 [See the full commands list](https://www.atlanta-bot.fr/commands)
 
-### A powerful Dashboard
-
-Atlanta has its own dashboard which also offers many features! The dashboard runs with Express and EJS!
-
-<img align="left" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/c3ya.png" height="200" width="350"/>
-<img align="center" style="float: left; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/vnq5.png" height="200" width="350"/>
-<img align="center" style="float: centrer; margin: 0 10px 0 0;" src="https://zupimages.net/up/19/31/htga.png" height="200" width="350"/>
-
 You can directly **edit your configuration**, **manage your servers**, **view rankings**, **modify your profile** and much more!
-
-> Find the code in the dashboard folder! 
 
 ## Installation
 
@@ -71,9 +59,7 @@ You must follow the [installation guide](https://www.atlanta-bot.fr/installation
 *   [Installation Guide](https://www.atlanta-bot.fr/installation)
 *   [F.A.Q](https://www.atlanta-bot.fr/faq/)
 *   [Discord](https://discord.atlanta-bot.fr)
-*   [Twitter](https://twitter.com/AtlantaBot)
 *   [Github](https://github.com/Androz2091/AtlantaBot/)
-*   [Dashboard](https://dashboard.atlanta-bot.fr)
 
 ## Contributing
 
